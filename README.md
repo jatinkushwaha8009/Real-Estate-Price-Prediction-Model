@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/faizahmed09/Real-Estate-Price-Prediction-Model.git
+    git clone https://github.com/jatinkushwaha8009/Real-Estate-Price-Prediction-Model.git
     cd real-estate-price-prediction
     ```
 
