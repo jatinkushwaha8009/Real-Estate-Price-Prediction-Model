@@ -25,23 +25,23 @@ This project involves building a machine learning model to predict real estate p
 
 To run this project, you'll need to have Python installed on your machine. You can install the necessary Python packages using the following command:
 
-bash
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
+```
 
 ## Usage
 
 1. Clone this repository:
 
-    bash
+    ```bash
     git clone https://github.com/faizahmed09/Real-Estate-Price-Prediction-Model.git
     cd real-estate-price-prediction
-    
+    ```
 
 2. Launch Jupyter Notebook:
 
-    bash
+    ```bash
     jupyter notebook
-    
+    ```
 
-3. Open the Real Estate.ipynb notebook and run the cells to execute the model.
+3. Open the `Real Estate.ipynb` notebook and run the cells to execute the model.
